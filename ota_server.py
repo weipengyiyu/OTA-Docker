@@ -1,4 +1,5 @@
-#!/usr/bin/python
+#!/usr/bin/python3
+
 # -*- coding: UTF-8 -*-
 # 本地测试启动 python http_server.py 8000
 # linux服务器启动时，注意选择python3环境
